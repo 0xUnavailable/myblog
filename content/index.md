@@ -1,7 +1,8 @@
 ---
 title: Hello there, Stranger
 tags:
-  - Home
+  - home
+Date: 2026-01-02
 ---
 ---
 
@@ -27,7 +28,9 @@ This site is not a news feed by the way.
 
 ### How to read this site
 
-- If you want raw thinking and research, explore [[Entries|Notes]]
+- If you want raw thinking and research, explore [[notes/index|Notes]]
 - If you want finished writing, start with [[posts/index|Posts]]
 - If you want random stuff, explore [[random/index|Random]]
 
+
+---

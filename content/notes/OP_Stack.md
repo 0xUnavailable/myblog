@@ -2,6 +2,7 @@
 title: Intro to OP Stack
 tags:
   - notes
+Date: 2026-01-02
 ---
 
 # Background
